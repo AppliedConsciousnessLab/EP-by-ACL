@@ -12,7 +12,7 @@ Under the following terms:
   You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
 Attribution must appear as:
-“EP by Applied Consciousness Lab (ACL)”
+“EP by ACL”
 
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
